@@ -10,12 +10,11 @@ Coffee lovers and remote workers often struggle to find the right cafe when visi
 ## What it does
 My app answers three questions:
 1. **Sub-question 1:** Which cafes have the highest overall ratings and most consistent positive feedback?
-2. **Sub-question 2:** How do cafes compare across specific features like coffee quality, seating availability, and Wi-Fi reliability?
+2. **Sub-question 2:** How do cities compare on coffee quality, seating, and wifi?
 3. **Sub-question 3:** Which top-rated cafes offer the best balance of quality and affordability?
 
 ## Data
-The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) on Kaggle, collected in March 2025. The dataset is shared under the MIT License by its creator, artermiloff. This repo uses `steam_games.csv`, a smaller file made for the course: the 1,000 games with the most reviews.
-
+The [Zomato Cafe Reviews](https://www.kaggle.com/datasets/juhibhojani/zomato-cafe-reviews?select=reviews.csv) on Kaggle, collected in 2023. The dataset is shared under the Community Data License Agreement - Sharing - Version 1.0 by its creator, Juhi Bhojani. This repo uses `reviews.csv`, a dataset of 774 cafe reviews from Ahmedabad, India."
 ## Built with
 - Python and pandas, in Google Colab
 - Coming soon: my outside tool
